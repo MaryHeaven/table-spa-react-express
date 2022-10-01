@@ -2,5 +2,5 @@
 ## Test task - table in SPA format
 
 
-Старт сервера / Server start - npm run dev
+Старт сервера / Server start - npm run dev <br>
 Старт фронта / Frontend start - npm start
